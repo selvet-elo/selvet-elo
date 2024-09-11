@@ -5,7 +5,7 @@ I completed my undergrad education in the field of Astronomy, and that's when I 
 I believe that my educational background has provided me with valuable skills to thrive in this field.
 
 - 🌱 I’m currently learning Python for data science, machine learning, and deep learning.
-- 🤔 My goal is to become a data scientist.
+- 🔥 My goal is to become a data scientist.
 - 📫 How to reach me: selvet.elif@gmail.com
-- ⚡ Fun fact: I am currently a tattoo artist! I've been a tattoo artist for 2 years but now I want to retire as a tattoo artist and work with data. 
--->
+- ✨ Fun fact: I am currently a tattoo artist! I've been a tattoo artist for 2 years but now I just want to focus on programming in general. 
+
